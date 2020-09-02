@@ -8,6 +8,11 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
+a {
+    color: #3c484e;
+    text-decoration: none;
+}
+
 .Header-main {
   display: flex;
   justify-content: space-between;
